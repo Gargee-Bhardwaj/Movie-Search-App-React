@@ -1,3 +1,5 @@
+Live view of the project :https://gargee-bhardwaj.github.io/movies/popular
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
