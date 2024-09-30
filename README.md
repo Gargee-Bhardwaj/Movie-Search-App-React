@@ -1,4 +1,4 @@
-Live view of the project : https://gargee-bhardwaj.github.io/Movie-Search-App-React/
+Live view of the project : https://gargee-bhardwaj.github.io/
 
 # Getting Started with Create React App
 
